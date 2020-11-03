@@ -1,13 +1,15 @@
-Admin Spot Drawing Tools:
+#Admin Spot Drawing Tools:
 ![Demo CountPages alpha](https://i.ibb.co/FwK95RZ/ezgif-com-gif-maker-2.gif)
  
-User Spot View:
-![Demo CountPages alpha](https://i.ibb.co/92S7N35/ezgif-com-gif-maker-3.gif)
+#User Spot View:
+ 
+###[Mapdora Software Demo](https://mapdora.herokuapp.com/)
 
-Admin reservation control:
+
+#Admin reservation control:
 ![Demo CountPages alpha](https://i.ibb.co/hFxGgtK/ezgif-com-gif-maker-1.gif)
 
-
+#More pictures
 ![alt text](https://media-exp1.licdn.com/dms/image/C4E22AQFQClOO0dP-gw/feedshare-shrink_2048_1536/0?e=1607558400&v=beta&t=Ie2wujtVhcbL8Uhg7MveIfw1_wkGjRXrSc0kb3-4UFU)
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C4E22AQEJcbw0wmLliA/feedshare-shrink_2048_1536/0?e=1607558400&v=beta&t=Uttbr-bupbfo4sRur8Anr8lxmg27wq9FncfZL-EGBcM)
