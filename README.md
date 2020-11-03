@@ -1,13 +1,13 @@
 Admin Spot Drawing Tools:
+
 ![Demo CountPages alpha](https://i.ibb.co/FwK95RZ/ezgif-com-gif-maker-2.gif)
  
- 
- 
- 
 User Spot View:
-![Demo CountPages alpha](https://i.ibb.co/DkbphKZ/ezgif-com-gif-maker-3.gif)
- 
+
+![Demo CountPages alpha](https://i.ibb.co/FwK95RZ/ezgif-com-gif-maker-3.gif)
+
 Admin reservation control:
+
 ![Demo CountPages alpha](https://i.ibb.co/hFxGgtK/ezgif-com-gif-maker-1.gif)
 
 
