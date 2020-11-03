@@ -5,7 +5,7 @@ User Spot View:
 ![Demo CountPages alpha](https://i.ibb.co/DkbphKZ/ezgif-com-gif-maker-3.gif)
 
 Admin reservation control:
-![Demo CountPages alpha](https://i.ibb.co/hFxGgtK/ezgif-com-gif-maker-1.gif)
+![Demo CountPages alpha](https://i.ibb.co/DkbphKZ/ezgif-com-gif-maker-3.gif)
 
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C4E22AQFQClOO0dP-gw/feedshare-shrink_2048_1536/0?e=1607558400&v=beta&t=Ie2wujtVhcbL8Uhg7MveIfw1_wkGjRXrSc0kb3-4UFU)
