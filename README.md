@@ -1,4 +1,3 @@
-###
 
 User reservation display:
 
